@@ -79,3 +79,22 @@ button {
     color: #E5E7EB;
     margin: 5px;
 }
+
+.call-to-action {
+    background-color: #3382F6;
+}
+
+.cta-button {
+    outline: solid white;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    bottom: 0;
+    position: fixed;
+    color: #F9FAF8;
+    height: 50px;
+    width: 100%;
+}
